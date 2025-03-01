@@ -4,7 +4,7 @@ A fun Python Snake game with dev cheats like score multiplier, speed hack, and n
 🚀 Features:
 Dev Mode: Unlock cheats and features!
 Score Multiplier: Increase/decrease by 0.5 using [ and ]. Starts at 2.00x.
-Speed Hack: Use + to increase and - to decrease speed.
+Speed Hack: Use = to increase and - to decrease speed.
 No-Clip Mode: Toggle with N to pass through walls.
 Reset: Reset score multiplier to 2.00x with R.
 ========================================================================================================
